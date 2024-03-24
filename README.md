@@ -8,7 +8,12 @@ You can see a demo of the application in action below:
 
 [![Hand Detector Demo_video](https://github.com/zosk62/interactive-hand-landmark_tkinter_gui/blob/main/screencapture_video.mp4)]
 
+---
+
 [![Hand Detector Screenshot](https://github.com/zosk62/interactive-hand-landmark_tkinter_gui/blob/main/screencapture_img.png)]
+
+---
+
 **Features**
 
 * Real-time hand detection using MediaPipe
