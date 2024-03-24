@@ -2,7 +2,13 @@
 **Hand Detector App**
 
 This application uses OpenCV and MediaPipe to detect hands in real-time video and display them on a Tkinter canvas. It also allows you to select a specific landmark on the detected hand and highlight it.
+## Example
 
+You can see a demo of the application in action below:
+
+[![Hand Detector Demo_video](https://github.com/zosk62/interactive-hand-landmark_tkinter_gui/blob/main/screencapture_video.mp4)]
+
+[![Hand Detector Screenshot](https://github.com/zosk62/interactive-hand-landmark_tkinter_gui/blob/main/screencapture_img.png)]
 **Features**
 
 * Real-time hand detection using MediaPipe
