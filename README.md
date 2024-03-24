@@ -1,4 +1,4 @@
-# interactive-hand-landmar_tkinter_guik-selection
+# Interactive-hand-landmar_TKinter_GUI
 **Hand Detector App**
 
 This application uses OpenCV and MediaPipe to detect hands in real-time video and display them on a Tkinter canvas. It also allows you to select a specific landmark on the detected hand and highlight it.
